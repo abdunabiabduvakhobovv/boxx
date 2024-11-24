@@ -1,0 +1,40 @@
+*{
+    margin: ;
+    padding: ;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #CD5D5D;
+    
+}
+
+.container{
+    max-width: 1100px;
+    margin: 0 auto;
+   ;
+    
+}
+
+span{
+    color: yellow;
+}
+
+P{
+    color: white;
+   font-size: 64px;
+   align-items: center;
+   font-family: Inter;
+font-size: 40px;
+font-weight: 400;
+line-height: 48.41px;
+text-align: center;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+
+}
+
+.boox{
+    color: #2000E8;
+    justify-content: space-between;
+}
